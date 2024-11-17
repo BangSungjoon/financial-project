@@ -9,5 +9,5 @@ SSAFY 1학기 마지막 관통 프로젝트입니다.
 - 2024-11-18
     - front 프로젝트 생성
         - `npm install axios` 해주세요
-    - django-allauth의 호환성 문제로 인해 0.54.0 버전으로 교체
+    - django-allauth의 호환성 문제로 인해 버전 교체
         - requirements.txt 업데이트 했으니 다시 설치할 것
